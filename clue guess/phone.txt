@@ -1,0 +1,4 @@
+flute
+thin cylinder
+hollow
+holes present
